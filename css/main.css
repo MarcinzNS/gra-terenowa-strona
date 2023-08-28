@@ -1,0 +1,22 @@
+.orange-color{
+  color: #f9ac19 !important;
+}
+
+.orange-bg-color{
+  background-color: #f9ac19 !important;
+}
+
+.blue-color{
+  color: #2a90d0 !important;
+}
+
+#app-color{
+  color: #1d6ca4 !important;
+  background-color: #f7f7f7 !important;
+}
+
+#app-color:hover{
+  color: #f7f7f7 !important;
+  background-color: #1d6ca4 !important;
+
+}
